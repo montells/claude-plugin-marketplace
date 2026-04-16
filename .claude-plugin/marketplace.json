@@ -1,6 +1,8 @@
 {
   "name": "claude-montells-plugins",
-  "owner": "Michel Sánchez Montells",
+  "owner": {
+    "name": "Michel Sánchez Montells"
+    },
   "plugins": [
     {
       "name": "hello-world",

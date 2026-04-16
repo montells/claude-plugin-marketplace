@@ -7,7 +7,5 @@
     "email": "montells@gmail.com",
     "url": "http://github.com/montells"
   },
-  "repository": "https://github.com/montells/claude-plugin-marketplace",
-  "skills": "./skills",
-  "commands": ["./commands/hello-world-command.md"]
+  "repository": "https://github.com/montells/claude-plugin-marketplace"
 }
