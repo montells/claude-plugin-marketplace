@@ -1,0 +1,15 @@
+{
+  "name": "claude-montells-plugin-marketplace",
+  "version": "1.0.0",
+  "description": "An experimental collection of Claude Code plugins, skills and commands.",
+  "plugins": [
+    {
+      "id": "hello-world",
+      "name": "Hello World",
+      "version": "1.0.0",
+      "description": "Greets the user with current date, time, and working directory, then asks what they want to do.",
+      "tags": ["utility", "greeting", "starter"],
+      "path": "plugins/hello-world"
+    }
+  ]
+}
