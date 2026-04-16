@@ -1,0 +1,16 @@
+{
+  "id": "hello-world",
+  "name": "Hello World",
+  "version": "1.0.0",
+  "description": "Greets the user with current date, time, and working directory, then asks what they want to do.",
+  "author": "Michel Sánchez Montells",
+  "commands": [
+    {
+      "name": "hello-world-command",
+      "description": "Displays a greeting with date, time, and current directory, then prompts the user for their next action.",
+      "file": "commands/hello-world-command.md"
+    }
+  ],
+  "tags": ["utility", "greeting", "starter"],
+  "minClaudeCodeVersion": "1.0.0"
+}
