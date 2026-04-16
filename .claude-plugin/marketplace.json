@@ -1,0 +1,11 @@
+{
+  "name": "claude-montells-plugins",
+  "owner": "Michel Sánchez Montells",
+  "plugins": [
+    {
+      "name": "hello-world",
+      "source": "./hello-world",
+      "description": "Greets the user with current date, time, and working directory, then asks what they want to do."
+    }
+  ]
+}

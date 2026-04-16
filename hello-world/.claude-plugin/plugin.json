@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Greets the user with current date, time, and working directory, then asks what they want to do.",
+  "author": {
+    "name": "Michel Sánchez Montells",
+    "email": "montells@gmail.com",
+    "url": "http://github.com/montells"
+  },
+  "repository": "https://github.com/montells/claude-plugin-marketplace",
+  "skills": "./skills",
+  "commands": ["./commands/hello-world-command.md"]
+}
