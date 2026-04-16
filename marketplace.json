@@ -6,6 +6,7 @@
     {
       "id": "hello-world",
       "name": "Hello World",
+      "source": "./plugins/hello-world",
       "version": "1.0.0",
       "description": "Greets the user with current date, time, and working directory, then asks what they want to do.",
       "tags": ["utility", "greeting", "starter"],
